@@ -1,0 +1,22 @@
+.custom-card-body {
+  border-bottom: 1px solid lightgray;
+}
+
+.card-body a:hover {
+  text-decoration: none;
+}
+
+.custom-card-body button {
+  padding: 0;
+  border: 0;
+  background-color: transparent;
+  color: darkred;
+}
+
+.custom-card-body button:hover {
+  color: red;
+}
+
+.custom-card-body li {
+  border-bottom: 1px solid lightgray;
+}
